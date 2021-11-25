@@ -1,11 +1,12 @@
 {
   "name": "clearvue9",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.3.0",
+  "description": "Clear the console on reload",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "type": "module",
   "author": "",
   "license": "ISC"
 }
